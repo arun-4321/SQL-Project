@@ -1,7 +1,8 @@
 # SQL-Project
 The project is based on the data cleaning and EDA
 
-This project is e
+I have taken the data set called layoffs from kaggle and performed the EDA on it.
+I found that the google, amazon, facebook...etc big companies made many layoffs and the most people are effected in the countries like United States and India..
 
 Some important steps need to be done while cleaning the data cleaning they are,
 
